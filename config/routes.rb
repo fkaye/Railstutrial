@@ -4,10 +4,6 @@ Rails.application.routes.draw do
   get 'static_pages/about'
 
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 54c7519fb57094a38f5222e3417c75f7610b0422
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
